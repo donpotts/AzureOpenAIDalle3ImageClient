@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureOpenAIDalle3ImageClient": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Create an image of a futuristic house.\" house"
+    }
+  }
+}
